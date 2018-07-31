@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mes Recettes</string>
+    <string name="app_bnv">Bienvenue</string>
+    <!-- Strings du la Menu-->
+    <string name="choix1">Recettes</string>
+    <string name="choix2">Favorite</string>
+    <string name="choix3">Mes Recettes</string>
+    <string name="choix4">MAJ</string>
+    <!--Explications du choix-->
+    <string name="exp1">Tous les recettes </string>
+    <string name="exp2">les favorable recettes   </string>
+    <string name="exp3">les recettes personnelle</string>
+    <string name="exp4">faire un mise a jour </string>
+    <string name="title_activity_mes_recette">MesRecette</string>
+    <string name="tab_text_1">Creation</string>
+    <string name="tab_text_2">Modification</string>
+    <string name="tab_text_3">Suppression</string>
+    <string name="action_settings">Favorite</string>
+    <!--Text Controles -->
+    <string name="spinTex">Choisissez la Recette</string>
+    <string name="Txb1">Titre du Recette</string>
+    <string name="Txb2">Les Composants</string>
+    <string name="Txb3">Préparation</string>
+    <!--Text Buttons-->
+    <string name="btnAjt">Enregistrer</string>
+    <string name="btnmd">Modifier</string>
+    <string name="btnsp">Supprimer</string>
+    <!--Tous Recette & favorite-->
+    <string name="txtV">La Liste des Recettes </string>
+    <string name="txtvF">La Liste de mes meilleur Recettes</string>
+    <string name="btnFav">Marquer dans Favorite</string>
+</resources>
